@@ -4,7 +4,7 @@ categories: []
 date: '2024-06-28T18:34:18+08:00'
 tags: []
 title: doomscroller
-updated: '2024-06-28T23:11:50.352+08:00'
+updated: '2024-06-28T23:16:12.301+08:00'
 ---
 **whatever** you do
 
@@ -27,3 +27,8 @@ not some cure to negate it
 more like a magnification mirror full-size
 
 inner reverberation happens outside
+
+
+[https://music.163.com/#/song?id=1937939501](https://)
+
+[](https://)
