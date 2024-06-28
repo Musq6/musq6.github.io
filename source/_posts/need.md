@@ -4,7 +4,7 @@ categories: []
 date: '2024-06-28T18:34:18+08:00'
 tags: []
 title: doomscroller
-updated: '2024-06-28T23:06:10.323+08:00'
+updated: '2024-06-28T23:11:50.352+08:00'
 ---
 **whatever** you do
 
@@ -24,6 +24,6 @@ take this for the heartache
 
 not some cure to negate it
 
-more like a magnifiocation mirror full-size
+more like a magnification mirror full-size
 
 inner reverberation happens outside
