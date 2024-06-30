@@ -200,7 +200,7 @@ color:
 
   # 分隔线和表格边线的颜色
   # Color of horizontal rule and table border
-  line_color: "#eaecef"
+  line_color: "#575f75"
   line_color_dark: "#435266"
 
   # 滚动条颜色
