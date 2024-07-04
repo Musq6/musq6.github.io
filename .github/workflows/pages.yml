@@ -31,16 +31,17 @@ jobs:
         run: npm install
 
       
-      - name: Build
-        run: npm run build
+      - name: Install Hexo-cli #安装hexo
+        run: npm install -g hexo-cli --save
+      - name: build #编译创建博客文件
+        run: |
+          hexo clean
+          hexo g
+          echo "Build blog succed"
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Clean hexo cache
-        run: hexo clean
-      - name: Generate hexo files
-        run: hexo g
   deploy:
     needs: build
     permissions:
