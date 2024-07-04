@@ -37,7 +37,7 @@ jobs:
         run: |
           hexo clean
           hexo g
-          echo "Build blog succed"
+          echo "Build blog Completed"
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
