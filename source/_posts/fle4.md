@@ -4,7 +4,7 @@ categories: []
 date: '2024-08-15T05:06:55'
 tags: []
 title: 又是一天
-updated: '2024-08-15T05:22:00'
+updated: '2024-08-15T05:25:56.883+08:00'
 ---
 其实人的所有情绪和想法，所组成的所有欲望和冲动 都是可以被接受的，都是正常的，so bad，现在才明白这一点。
 
@@ -32,4 +32,4 @@ updated: '2024-08-15T05:22:00'
 
 管他的呢，一路好走
 
-<img src="https://imgse.com/i/pA90CMF" alt="金光某乡" border=0>
+<img src="https://s21.ax1x.com/2024/08/15/pA90CMF.jpg" alt="金光之乡！" border=0>
